@@ -11,7 +11,7 @@ snapshot on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
 
 **Note:** An alternative is to use the [holepunch package for R](https://karthik.github.io/holepunch/articles/getting_started.html).
 
-You need to have a `runtime.txt` 222222 file that is formatted like:
+You need to have a `runtime.txt` file that is formatted like:
 
 ```
 r-<YYYY>-<MM>-<DD>
